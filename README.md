@@ -2,7 +2,7 @@
 
 ## MyArrayList
 A self resizing array data structure implementing:
-public
+###public
 - isEmpty()
 - at(index)
 - push(value)
@@ -13,5 +13,5 @@ public
 - remove(value) - all occurences
 - find(value)
 - toString()
-private
+###private
 - resize(newCapacity) 
