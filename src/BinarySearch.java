@@ -1,3 +1,5 @@
+/* © 2021 Preslav Venkov <https://github.com/presvenkov/data-structures-2021> */
+
 public class BinarySearch {
 
     public static boolean binarySearchIterative(int[] array, int target) {
