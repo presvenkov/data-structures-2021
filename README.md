@@ -1,7 +1,7 @@
-# data-structures-2021 /w tests
+# Data Structures /w tests
 
 ## MyArrayList
-A self resizing array data structure implementing:
+An implementation of a self resizing array
 ### public methods
 - isEmpty()
 - at(index)
@@ -15,3 +15,10 @@ A self resizing array data structure implementing:
 - toString()
 ### private methods
 - resize(newCapacity) 
+
+# Algorithms /w tests
+## BinarySearch
+An iterative and recursive implementation of binary search on a sorted array
+### public methods
+- binarySearchIterative(array, target)
+- binarySearchRecursive(array, target, left, right)
