@@ -1,4 +1,4 @@
-# data-structures-2021
+# data-structures-2021 /w tests
 
 ## MyArrayList
 A self resizing array data structure implementing:
