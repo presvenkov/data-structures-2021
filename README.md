@@ -35,6 +35,17 @@ An implementation of a linked list
 - removeValue(value)
 - removeValueAllInstances(value)
 
+
+## MyStack
+An implementation of a stack
+### public methods
+- push(value)
+- pop()
+- top()
+- getCurrentSize()
+### private methods
+- resize(newCapacity)
+
 # Algorithms /w tests
 ## BinarySearch
 An iterative and recursive implementation of binary search on a sorted array
