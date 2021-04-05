@@ -69,7 +69,7 @@ public class MyArrayList<T> {
         Object toReturn = items[size-1];
         size--;
         if (capacity/4 >= size) {
-            resize(capacity/4);
+            resize(capacity/2);
         }
 
         return toReturn;
